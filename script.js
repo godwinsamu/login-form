@@ -8,7 +8,6 @@ function validateform(){
 alert("password must 6 digits");
     }
     else{
-        document.login.style.backgroundColor="red";
         document.write("You have logged in successfully");
     }
 }
